@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/b2web/!svn/ver/32/grails-app/views/bridge
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/b2web/!svn/ver/32/grails-app/views/bridge/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/b2web/!svn/ver/13/grails-app/views/bridge/show.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/b2web/!svn/ver/19/grails-app/views/bridge/create.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/b2web/!svn/ver/19/grails-app/views/bridge/edit.gsp
+END

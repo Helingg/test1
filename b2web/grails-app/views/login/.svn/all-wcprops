@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2web/!svn/ver/1/grails-app/views/login
+END
+chpswd.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/b2web/!svn/ver/1/grails-app/views/login/chpswd.gsp
+END
+denied.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/b2web/!svn/ver/1/grails-app/views/login/denied.gsp
+END
+auth.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/b2web/!svn/ver/1/grails-app/views/login/auth.gsp
+END

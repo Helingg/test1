@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/b2web/!svn/ver/4/web-app/WEB-INF
+END
+sitemesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/b2web/!svn/ver/1/web-app/WEB-INF/sitemesh.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/b2web/!svn/ver/1/web-app/WEB-INF/applicationContext.xml
+END

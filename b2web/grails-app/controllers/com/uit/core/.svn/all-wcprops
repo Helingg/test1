@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/b2web/!svn/ver/4/grails-app/controllers/com/uit/core
+END
+LoginController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/b2web/!svn/ver/3/grails-app/controllers/com/uit/core/LoginController.groovy
+END
+LogoutController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/b2web/!svn/ver/3/grails-app/controllers/com/uit/core/LogoutController.groovy
+END
+MenuController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/b2web/!svn/ver/4/grails-app/controllers/com/uit/core/MenuController.groovy
+END

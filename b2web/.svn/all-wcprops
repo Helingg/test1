@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/b2web/!svn/ver/45
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/b2web/!svn/ver/1/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/b2web/!svn/ver/1/.project
+END
+BEE2Web.iml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/b2web/!svn/ver/1/BEE2Web.iml
+END
+BEE2Web-grailsPlugins.iml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/b2web/!svn/ver/1/BEE2Web-grailsPlugins.iml
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2web/!svn/ver/1/application.properties
+END

@@ -1,0 +1,65 @@
+.uit-tree{
+	text-align : left;
+	background : transparent;
+}
+.uit-tree .node{
+	height : 20px;
+	line-height : 20px;
+	overflow : hidden;
+}
+.uit-tree .node:hover{
+	background : #eee;
+}
+/*** 根结点 ***/
+.uit-tree>.node.root{
+	font-weight : bold;
+}
+.uit-tree .node>.status, .uit-tree .node>.logic, .uit-tree .node>.icon{
+	width : 16px;
+	height : 16px;
+	margin : 2px;
+	overflow : hidden;
+	float : left;
+}
+.uit-tree .node>.logic{
+	display : none;
+}
+.uit-tree .node>.caption{
+	text-indent : 3px;
+	overflow : hidden;
+	height : 20px;
+	line-height : 20px;
+	cursor : default;
+	text-decoration : underline;
+}
+.uit-tree .node>.status.collapse{ /***   ***/
+	background : url(../images/tree/tree_plus.gif) no-repeat;
+}
+.uit-tree .node>.status.expand{
+	background : url(../images/tree/tree_minus.gif) no-repeat;
+}
+.uit-tree .node>.status.leaf{
+	/*** background : url(images/tree_leaf.gif) no-repeat; **/
+}
+.uit-tree .node>.status.loading{
+	background : url(../images/tree/tree_loading.gif) no-repeat !important;
+}
+.uit-tree .node>.icon.collapse{
+	background : url(../images/tree/tree_collapse.gif) no-repeat;
+}
+.uit-tree .node>.icon.expand{
+	background : url(../images/tree/tree_expand.gif) no-repeat;
+}
+.uit-tree .node>.icon.leaf{
+	background : url(../images/tree/tree_leaf.png) no-repeat;
+}
+.uit-tree .subcontainer{
+	clear : left;
+	display : none;
+	overflow : hidden;
+	margin-left : 20px;
+}
+/*** 设置第一层结点外边距为0 ***/
+.uit-tree.hideroot>.subcontainer{
+	 margin-left : 0 !important; 
+}

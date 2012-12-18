@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2web/!svn/ver/32/grails-app/views/rule
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2web/!svn/ver/1/grails-app/views/rule/list.gsp
+END
+listr.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2web/!svn/ver/32/grails-app/views/rule/listr.gsp
+END
+createCode.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/b2web/!svn/ver/27/grails-app/views/rule/createCode.gsp
+END
+createCopy.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/b2web/!svn/ver/1/grails-app/views/rule/createCopy.gsp
+END
+createSet.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/b2web/!svn/ver/13/grails-app/views/rule/createSet.gsp
+END
+editCode.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/b2web/!svn/ver/1/grails-app/views/rule/editCode.gsp
+END
+editCopy.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/b2web/!svn/ver/30/grails-app/views/rule/editCopy.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2web/!svn/ver/1/grails-app/views/rule/show.gsp
+END
+createRemove.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/b2web/!svn/ver/1/grails-app/views/rule/createRemove.gsp
+END
+editSet.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/b2web/!svn/ver/30/grails-app/views/rule/editSet.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2web/!svn/ver/1/grails-app/views/rule/create.gsp
+END
+editRemove.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/b2web/!svn/ver/1/grails-app/views/rule/editRemove.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2web/!svn/ver/1/grails-app/views/rule/edit.gsp
+END

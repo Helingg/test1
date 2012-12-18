@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/b2web/!svn/ver/20/grails-app/i18n
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/b2web/!svn/ver/20/grails-app/i18n/messages.properties
+END
+messages.spring-security-ui.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/b2web/!svn/ver/1/grails-app/i18n/messages.spring-security-ui.properties
+END

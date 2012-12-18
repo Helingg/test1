@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2web/!svn/ver/1/grails-app/domain/com/uit/core
+END
+User.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/b2web/!svn/ver/1/grails-app/domain/com/uit/core/User.groovy
+END
+UserRole.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/b2web/!svn/ver/1/grails-app/domain/com/uit/core/UserRole.groovy
+END
+Role.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/b2web/!svn/ver/1/grails-app/domain/com/uit/core/Role.groovy
+END
+Menu.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/b2web/!svn/ver/1/grails-app/domain/com/uit/core/Menu.groovy
+END
+RoleMenu.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/b2web/!svn/ver/1/grails-app/domain/com/uit/core/RoleMenu.groovy
+END

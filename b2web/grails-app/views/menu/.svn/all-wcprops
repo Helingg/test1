@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/b2web/!svn/ver/1/grails-app/views/menu
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2web/!svn/ver/1/grails-app/views/menu/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2web/!svn/ver/1/grails-app/views/menu/show.gsp
+END
+role.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2web/!svn/ver/1/grails-app/views/menu/role.gsp
+END
+top.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/b2web/!svn/ver/1/grails-app/views/menu/top.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2web/!svn/ver/1/grails-app/views/menu/create.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2web/!svn/ver/1/grails-app/views/menu/edit.gsp
+END
+search.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2web/!svn/ver/1/grails-app/views/menu/search.gsp
+END

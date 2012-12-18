@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/b2web/!svn/ver/45/grails-app/domain/com/bssi
+END
+SendLog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/b2web/!svn/ver/3/grails-app/domain/com/bssi/SendLog.groovy
+END
+Bridge.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/b2web/!svn/ver/8/grails-app/domain/com/bssi/Bridge.groovy
+END
+Client.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/b2web/!svn/ver/45/grails-app/domain/com/bssi/Client.groovy
+END
+ReceiveInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/b2web/!svn/ver/45/grails-app/domain/com/bssi/ReceiveInfo.groovy
+END
+HL7Message.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/b2web/!svn/ver/3/grails-app/domain/com/bssi/HL7Message.groovy
+END
+Recipient.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/b2web/!svn/ver/8/grails-app/domain/com/bssi/Recipient.groovy
+END
+Cache.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/b2web/!svn/ver/3/grails-app/domain/com/bssi/Cache.groovy
+END
+Facility.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/b2web/!svn/ver/43/grails-app/domain/com/bssi/Facility.groovy
+END
+ReceiveLog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/b2web/!svn/ver/3/grails-app/domain/com/bssi/ReceiveLog.groovy
+END
+RuleGroup.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/b2web/!svn/ver/3/grails-app/domain/com/bssi/RuleGroup.groovy
+END
+SendInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/b2web/!svn/ver/45/grails-app/domain/com/bssi/SendInfo.groovy
+END
+Rule.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/b2web/!svn/ver/3/grails-app/domain/com/bssi/Rule.groovy
+END
+Provider.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/b2web/!svn/ver/44/grails-app/domain/com/bssi/Provider.groovy
+END
